@@ -1,0 +1,8 @@
+trabajo/
+**/node_modules/
+**/.hyperframes/
+**/.thumbnails/
+**/.waveform-cache/
+**/_work/*.wav
+**/renders/
+*.tmp
